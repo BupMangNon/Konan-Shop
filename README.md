@@ -1,0 +1,2 @@
+# Konan-Shop
+by: QMinh
